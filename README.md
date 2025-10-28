@@ -75,7 +75,7 @@ To conduct a comprehensive analysis of Blinkit's sales data to identify performa
 ## 📸 Dashboard Preview
 
 
-![PowerBiDashBoard.png](BlinkIt Sales Analysis Project/Screenshot 2025-10-28 164411.png)
+![PowerBiDashBoard.png](https://github.com/Ravindrabhaskar06/BlinkIt-Sales-Analysis-Project/blob/f1fd9dc1c82de34f86bc9abafd49730393eedb84/BlinkIt%20Sales%20Analysis%20Project/Screenshot%202025-10-28%20164411.png)
 
 ---
 
